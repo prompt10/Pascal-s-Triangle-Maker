@@ -1,0 +1,16 @@
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\obj\Debug\net5.0\Pascal's Triangle Maker.csprojAssemblyReference.cache
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\obj\Debug\net5.0\Pascal's Triangle Maker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\obj\Debug\net5.0\Pascal's Triangle Maker.AssemblyInfoInputs.cache
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\obj\Debug\net5.0\Pascal's Triangle Maker.AssemblyInfo.cs
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\obj\Debug\net5.0\Pascal's Triangle Maker.csproj.CoreCompileInputs.cache
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\bin\Debug\net5.0\Pascal's Triangle Maker.exe
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\bin\Debug\net5.0\Pascal's Triangle Maker.deps.json
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\bin\Debug\net5.0\Pascal's Triangle Maker.runtimeconfig.json
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\bin\Debug\net5.0\Pascal's Triangle Maker.runtimeconfig.dev.json
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\bin\Debug\net5.0\Pascal's Triangle Maker.dll
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\bin\Debug\net5.0\ref\Pascal's Triangle Maker.dll
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\bin\Debug\net5.0\Pascal's Triangle Maker.pdb
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\obj\Debug\net5.0\Pascal's Triangle Maker.dll
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\obj\Debug\net5.0\ref\Pascal's Triangle Maker.dll
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\obj\Debug\net5.0\Pascal's Triangle Maker.pdb
+D:\Prompt\MDT112 Midterm test\Pascal's Triangle Maker\Pascal's Triangle Maker\Pascal's Triangle Maker\obj\Debug\net5.0\Pascal's Triangle Maker.genruntimeconfig.cache
